@@ -10,7 +10,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 🤔 I’m open to discussing new ideas and opportunities.
 - 💬 Ask me about anything related to web development, programming languages, and open-source.
 - 📫 How to reach me: 
-  - Email: ujjwal@example.com
+  - Email: ujjwaljha744@gmail.com
   - LinkedIn: [Ujjwal Jha](https://www.linkedin.com/in/ujjwaljha1)
   - Twitter: [@ujjwaljha1](https://twitter.com/ujjwaljha1)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
