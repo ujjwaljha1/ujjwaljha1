@@ -30,7 +30,7 @@ I'm a passionate **software developer** with a strong inclination towards buildi
 ### 💸 [PMSS Scholarship Disbursement System](https://pmss-ayush.netlify.app/)
 
 > A secure and transparent platform for managing and disbursing student scholarships — built to assist government processes and student outreach.
-> 📂 [GitHub Repo](https://github.com/ujjwaljha1/AyushSIH)
+> 📂 [GitHub Repo]([https://github.com/ujjwaljha1/AyushSIH](https://github.com/ujjwaljha1/PMSS))
 
 > 💡 Want to see more? Visit my [Portfolio](https://ujjwaljha.in)
 
