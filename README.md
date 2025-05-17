@@ -1,53 +1,69 @@
+
+
 # Hi there, I'm Ujjwal 👋
 
-I'm a passionate software developer with a keen interest in open-source projects and innovative technologies. I love exploring new frameworks and tools to build efficient and scalable solutions.
+I'm a passionate **software developer** with a strong inclination towards building impactful, real-world solutions. From creating intuitive user experiences to contributing to open-source, I enjoy using technology to solve meaningful problems.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m constantly learning and improving my skills in software development.
-- 👯 I’m looking to collaborate on exciting projects that make an impact.
-- 🤔 I’m open to discussing new ideas and opportunities.
-- 💬 Ask me about anything related to web development, programming languages, and open-source.
-- 📫 How to reach me: 
-  - Email: ujjwaljha744@gmail.com
-  - LinkedIn: [Ujjwal Jha](https://www.linkedin.com/in/ujjwaljha1)
-  - Twitter: [@ujjwaljha1](https://twitter.com/ujjwaljha1)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+* 🌱 Currently refining the **[Edutech Learning Platform](https://edutech-project.netlify.app/)** — transforming how students learn online.
+* 💻 Actively contributing to projects in **education, mentorship, and digital governance**.
+* 🧩 Always up for solving logic puzzles, debugging challenges, and building from scratch.
+* 💬 Open to discussions on product ideas, open-source collaborations, and full-stack development.
+* 📫 Reach out:
 
-## 🛠️ Technologies & Tools
+  * 📧 Email: [ujjwaljha744@gmail.com](mailto:ujjwaljha744@gmail.com)
+  * 🔗 [LinkedIn](https://www.linkedin.com/in/ujjwaljha1) | [Twitter](https://twitter.com/ujjwaljha1) | 🌐 [Portfolio](https://ujjwaljha.in)
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, MongoDB, PostgreSQL
+## 🖥️ Highlighted Projects
 
-## 📈 GitHub Stats
+### 🎓 [Edutech Learning Platform](https://edutech-project.netlify.app/) — *Current Work*
 
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwaljha1&show_icons=true&theme=radical)
+> A dynamic e-learning portal focused on user engagement, seamless UI, and educational content delivery.
+> 📂 [GitHub Repo](https://github.com/ujjwaljha1/Edutech)
+
+### 🤝 [Mentorship Portal](https://mentorshipsih.netlify.app/)
+
+> Bridges the gap between students and mentors by enabling guided learning paths and domain-specific mentorship.
+> 📂 [GitHub Repo](https://github.com/ujjwaljha1/MentorShip-FrontEnd)
+
+### 💸 [PMSS Scholarship Disbursement System](https://pmss-ayush.netlify.app/)
+
+> A secure and transparent platform for managing and disbursing student scholarships — built to assist government processes and student outreach.
+> 📂 [GitHub Repo](https://github.com/ujjwaljha1/AyushSIH)
+
+> 💡 Want to see more? Visit my [Portfolio](https://ujjwaljha.in)
+
+## 🛠️ Tech Stack
+
+**Languages**
+JavaScript, Python, Java, C++
+
+**Frameworks & Libraries**
+React, Node.js, Django, Spring Boot
+
+**DevOps & Tools**
+Git, Docker, Kubernetes, Jenkins, Postman
+
+**Databases**
+MongoDB, MySQL, PostgreSQL
+
+## 📊 GitHub Insights
+
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwaljha1\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljha1\&layout=compact\&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ujjwaljha1&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ujjwaljha1\&theme=onedark)
 
-## 📊 Top Languages
+## 🎯 Goals Ahead
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljha1&layout=compact&theme=radical)
+* 🌍 Build products that create real-world social and educational impact.
+* 📦 Increase contributions to open-source communities.
+* 🔭 Explore AI, cloud-native development, and system design at scale.
 
-## 🖥️ Projects
+---
 
-Here are some of my projects:
-
-- [Project 1](https://github.com/ujjwaljha1/project1) - A web application built using React and Node.js.
-- [Project 2](https://github.com/ujjwaljha1/project2) - A machine learning project implemented in Python.
-- [Project 3](https://github.com/ujjwaljha1/project3) - A mobile app developed using Java and Android Studio.
-
-Feel free to check out my repositories and contribute to any of the projects.
-
-## 🎯 Goals
-
-- Contribute more to open-source projects.
-- Learn and master new technologies.
-- Build a community of like-minded developers.
-
-Let's connect and create something amazing together!
+Let’s connect and create something amazing together ✨
